@@ -105,4 +105,39 @@ Project screenshots are available in the [`screenshots`](./screenshots) folder.
 
 **Abinaya M**
 
-Aspiring Cloud and DevOps Engineer
+Aspiring Cloud Engineer
+
+## 📸 Project Screenshots
+
+### EC2 Instance
+![EC2 Instance](screenshots/01-ec2-instance.png)
+
+### Apache Web Server
+![Apache Web Server](screenshots/02-apache-web-server.png)
+
+### Web Page Test
+![Web Page Test](screenshots/03-webpage-test.png)
+
+### AMI Creation
+![AMI Creation](screenshots/04-ami-creation.png)
+
+### Launch Template
+![Launch Template](screenshots/05-launch-template.png)
+
+### Classic Load Balancer
+![Classic Load Balancer](screenshots/06-classic-load-balancer.png)
+
+### Auto Scaling Group
+![Auto Scaling Group](screenshots/07-auto-scaling-group.png)
+
+### SNS Topic
+![SNS Topic](screenshots/08-sns-topic.png)
+
+### Email Subscription
+![Email Subscription](screenshots/09-email-subscription.png)
+
+### CloudWatch Alarm
+![CloudWatch Alarm](screenshots/10-cloudwatch-alarm.png)
+
+### Email Notification
+![Email Notification](screenshots/11-email-notification.png)
